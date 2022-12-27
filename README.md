@@ -4,7 +4,7 @@ This is a HKUspace school project inspired by a big chopper signage located at H
 <img src="https://github.com/lexeric/school-project-2022/raw/main/IMG_0703.jpg" width="400">
 
 ## Process
-In this assignmnt we are asked to design a 5m x 5m x 5m shop. The attribute of "Drawing attention" or in Cantonese 搶Fo is extracted from Leung Tim chopper signage. And I used Rhino3D and grasshopper to do some parametric design, in which a function called random reduction is used.<br>
+In this assignmnt we are asked to design a 5m x 5m x 5m shop. The attribute of "Drawing attention" or in Cantonese "搶Fo" is extracted from Leung Tim chopper signage. And I used Rhino3D and grasshopper to do some parametric design, in which a function called random reduction is used.<br>
 <img src="https://github.com/lexeric/school-project-2022/raw/main/rhino.png" width="600">
 
 The script is highly influenced by
@@ -17,6 +17,6 @@ Final render is here<br>
 3dm and gh files are uploaded here.
 
 <br>
-Thank you.
-Eric
+Thank you.<br>
+Eric<br>
 2022
